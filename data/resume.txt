@@ -1,0 +1,42 @@
+Alex Mayer
+Houston, TX • alex.mayer@example.com • github.com/alexmayer • linkedin.com/in/alexmayer
+
+EDUCATION
+University of Houston, B.S. in Computer Science
+Expected Graduation: May 2028
+Relevant Coursework: Data Structures, Discrete Math, Computer Organization, Calculus I & II
+
+TECHNICAL SKILLS
+Languages: Python, C++, Java (basic), SQL
+Tools & Technologies: Git, Linux, Visual Studio Code, REST APIs, JSON, HTML/CSS
+Concepts: Object-Oriented Programming, Data Structures and Algorithms, Basic Networking, Time Complexity
+
+PROJECTS
+Course Planner Tool
+• Built a tool to help students plan their course schedule using Python.
+• Parsed degree requirements and generated valid semester plans.
+• Used data structures (graphs, hash maps) to track prerequisites and course dependencies.
+• Stored and loaded plans from JSON files and used Git for version control.
+
+File Organizer Script
+• Developed a Python script that scans a directory and organizes files by extension.
+• Implemented logging to track processed files.
+• Used OS and pathlib modules to handle file paths across platforms.
+
+Basic Network Monitor
+• Wrote a simple Python script to ping a list of hosts and log latency results.
+• Exported output to CSV for later analysis.
+• Implemented error handling for timeouts and unreachable hosts.
+
+EXPERIENCE
+Student Tutor (Informal)
+• Helped classmates understand pointers, recursion, linked lists, and basic algorithm analysis.
+• Reviewed code, explained bugs, and walked through debugging strategies.
+
+ACTIVITIES
+• Programming club member, attend weekly coding meetups and project sessions.
+• Self-study in cybersecurity fundamentals, including Linux, terminals, and basic networking.
+
+SUMMARY
+Motivated computer science student with strong fundamentals in data structures and Python.
+Interested in technology consulting, software engineering, and cybersecurity-focused roles.

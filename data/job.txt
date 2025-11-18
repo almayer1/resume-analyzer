@@ -1,0 +1,37 @@
+Technology Summer Analyst – Example Technology Consulting Firm
+
+Role Overview
+We are looking for a Technology Summer Analyst to join our consulting team. As a Summer Analyst, you will help design, build, and test technology solutions for clients across a variety of industries. You will work with project teams to analyze business problems, gather requirements, and implement technical solutions.
+
+Key Responsibilities
+• Collaborate with cross-functional teams to understand client requirements and translate them into technical tasks.
+• Assist in designing and building software components using languages such as Python, Java, or JavaScript.
+• Help integrate systems using APIs, REST services, and JSON-based data formats.
+• Support data analysis tasks, including cleaning, transforming, and visualizing datasets.
+• Participate in cloud-related work using platforms such as AWS, Azure, or Google Cloud.
+• Contribute to documentation, testing, and deployment activities.
+• Communicate progress, blockers, and results clearly to team members and stakeholders.
+
+Basic Qualifications
+• Currently pursuing a bachelor’s degree in Computer Science, Computer Engineering, Information Systems, or a related field.
+• Familiarity with at least one programming language (Python, Java, C++, or JavaScript).
+• Understanding of data structures and algorithms.
+• Exposure to databases and SQL.
+• Interest in technology consulting, digital transformation, or cloud solutions.
+• Strong problem-solving, communication, and teamwork skills.
+
+Preferred Qualifications
+• Experience with version control tools such as Git and GitHub.
+• Exposure to web technologies (HTML, CSS, JavaScript, REST APIs).
+• Familiarity with basic cybersecurity concepts, networking, or system administration.
+• Previous project work involving automation, data pipelines, or dashboarding.
+• Awareness of agile development practices.
+
+What You Will Learn
+• How technology consulting projects are run from requirements gathering to deployment.
+• Practical experience with real-world client problems and enterprise systems.
+• Hands-on exposure to modern tools and platforms used in industry.
+• How to work as part of a professional technology team and deliver value to clients.
+
+Location
+Houston, TX (with potential hybrid or remote work options depending on team needs).
