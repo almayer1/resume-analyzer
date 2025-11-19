@@ -1,5 +1,6 @@
 from src.parser import parse_resume_txt, parse_job_txt
 from src.extractor import normalize, cleanup
+from src.compare import score
 
 RESUME_PATH = 'data/resume.txt'
 JOB_PATH = 'data/job.txt'
@@ -11,9 +12,14 @@ def main():
 
     #extract important info from file
     resume = normalize(resume)
-    print(cleanup(resume))
+    resume = cleanup(resume)
+
+    job = normalize(job)
+    job = cleanup(job)
 
     #compare info
+    grade = score(resume, job)
+    print(resume)
 
 
     #suggest edits
