@@ -4,14 +4,14 @@ def parse_resume_txt(path: str) -> str:
     result = ""
     with open(path) as file:
         for line in file:
-            result += line.strip()
+            result += line.strip() + " "
     return result
 
 def parse_job_txt(path: str) -> str:
     result = ""
     with open(path) as file:
         for line in file:
-            result += line.strip()
+            result += line.strip() + " "
     return result
 
 
